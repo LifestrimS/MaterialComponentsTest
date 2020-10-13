@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MaterialComponentsTest</string>
+    <string name="textinputlabel">TextInputLabel</string>
+    <string name="button">Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="swtch">Fab switch</string>
+    <string name="radio_btn_light_theme">Light theme</string>
+    <string name="radio_btn_dark_theme">Dark theme</string>
+    <string name="radio_btn_default_theme">Default system theme</string>
+    <string name="extended_fab">Extended fab</string>
+
+    <string name="chip_action">Action</string>
+    <string name="chip_choice">Choice</string>
+    <string name="chip_entry">Entry</string>
+    <string name="chip_filter">Filter</string>
+    <string name="bt_snackbar">Snackbar</string>
+    <string name="bt_label_visible">Label visible</string>
+    <string name="bt_badging">Badging</string>
+    <string name="bt_badge_gravity">Badge gravity</string>
+</resources>
